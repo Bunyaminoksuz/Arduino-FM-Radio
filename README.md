@@ -38,3 +38,4 @@ In this project, frequency control is provided via the TEA5767 FM radio module u
 | Wire.h | To provide I2C communication |
 | TEA5767.h | To control the TEA5767 module |
 | Encoder.h | To get input from the rotary encoder |
+| LiquidCrystal_I2C.h | To control a character LCD screen using only 2 pins (via I2C) |
