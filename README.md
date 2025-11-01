@@ -29,7 +29,7 @@ In this project, frequency control is provided via the TEA5767 FM radio module u
 | TEA5767 FM Module | Used to receive and play FM radio signals. |
 | Rotary Encoder | Allows the user to increase and decrease the frequency. |
 | Encoder Button | (Not used in the code, but can be added later) |
-| Serial Monitor | Used to display frequency and signal information. |
+| LCD Display | Used to display frequency and signal information. |
 
 ### Libraries Used
 
